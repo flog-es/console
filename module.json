@@ -1,0 +1,8 @@
+{
+  "name": "console",
+  "description": "Implementation of the WHATWG Console Standard",
+  "specification": "https://console.spec.whatwg.org",
+  "version": "0.0.1",
+  "url": "https://github.com/flog-es/console",
+  "license": "BSD-3-Clause"
+}
